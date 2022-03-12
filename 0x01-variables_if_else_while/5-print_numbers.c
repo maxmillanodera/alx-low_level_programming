@@ -7,15 +7,15 @@
 
 int main(void)
 {
-int m;
+int i;
 
-for (m = 0 ; digit < 10; m++);
+for (i = 0 ; i < 10; i++);
 {
-printf("%m", m);
+printf("%i", i);
 }
 
 printf("\n");
 
-rueurn (0);
+return (0);
 
 }
