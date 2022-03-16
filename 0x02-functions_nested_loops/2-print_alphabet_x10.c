@@ -14,12 +14,14 @@ int count;
 count = 0;
 while (count < 10)
 {
-_putchar(alphabet);
+for (alphbet = 'a' ; alphabet <= 'z'; alphabet++)
+{
+_putchar(aphbet);
 }
 
 count++;
 _putchar('\n');
-
+}
 
 
 }
