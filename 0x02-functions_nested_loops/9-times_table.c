@@ -37,7 +37,7 @@ _putchar ((c / 10) + '0');
 _putchar ((c % 10) + ')');
 if (b < 9)
 {
-_pitchar(',');
+_putchar(',');
 _putchar (' ');
 }
 }
