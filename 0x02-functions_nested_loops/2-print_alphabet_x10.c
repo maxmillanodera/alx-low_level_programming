@@ -14,9 +14,9 @@ int count;
 count = 0;
 while (count < 10)
 {
-for (alphbet = 'a' ; alphabet <= 'z'; alphabet++)
+for (alphabet = 'a' ; alphabet <= 'z'; alphabet++)
 {
-_putchar(aphbet);
+_putchar(aphabet);
 }
 
 count++;
