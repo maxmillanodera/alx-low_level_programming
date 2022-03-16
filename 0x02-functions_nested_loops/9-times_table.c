@@ -1,4 +1,4 @@
-#inclide "main.h"
+#include "main.h"
 /**
  * times_table -prints tables
  *
@@ -27,7 +27,7 @@ _putchar ((c % 10) + '0');
 }
 if (b < 9)
 {
-_pitchar(',');
+_putchar(',');
 _putchar(' ');
 }
 }
