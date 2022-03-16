@@ -6,7 +6,7 @@
  * Return: Always 0.
  */
 
-void jack _bauer(void)
+void jack_bauer(void)
 
 {
 int a;
